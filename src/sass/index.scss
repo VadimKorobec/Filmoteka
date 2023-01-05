@@ -1,0 +1,31 @@
+// Utils styles
+@import './utils/vars';
+@import './utils/visually-hidden';
+@import './utils/mixin';
+@import './utils/is-hidden';
+
+// Base styles
+@import './base/common';
+@import './base/resets';
+@import './base/inherit';
+
+// Components styles
+@import './components/container';
+@import './components/modal';
+@import './components/modalTeam';
+@import './components/btn-change-theme';
+@import './components/spinner';
+@import './components/paginaton';
+@import './components/spinner';
+@import './components/up-btn';
+@import './components/darkmode';
+@import './components/trailer';
+@import './components/library-alert'; 
+
+// Layout styles
+@import './layout/header';
+@import './layout/gallery';
+@import './layout/footer';
+@import './layout/header-library';
+@import './layout/filter';
+
